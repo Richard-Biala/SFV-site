@@ -1,0 +1,9 @@
+.navbar {
+  width: 100%;
+}
+
+.jumbotron {
+  background-image: url('/assets/SVF-CUTOUT_dropshadow\ \(5\)\ \(1\).jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
