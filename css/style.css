@@ -117,6 +117,13 @@ header a:hover {
   border-radius: 5px;
 }
 
+/* Youtube Link */
+.youtube {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 /* Boxes */
 
 #boxes {
